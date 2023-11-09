@@ -11,6 +11,7 @@ public class PrimeNumbers {
         if (num % i == 0) {
           isPrime = false;
           break;
+          //Another new comment
         }
       }
 
